@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "my_graph": "./index.js:graph"
+  },
+  "env": ".env"
+}
